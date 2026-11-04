@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# lgpio temporary pipe
+.lgd-*
+
+# Editor & OS files
+.DS_Store
+.vscode/
+Thumbs.db
+
